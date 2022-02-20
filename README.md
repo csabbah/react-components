@@ -7,4 +7,4 @@ for some portions of my application, i worked exclusively with Tailwind in order
 
 Link to deployed application: https://carlossabbah.com/
 
-![portfolio preview](https://i.imgur.com/UABLWtM.png)
+<img width="1019" alt="Screen Shot 2022-02-19 at 10 24 46 PM" src="https://user-images.githubusercontent.com/91699101/154827169-06424d1d-61b3-4588-8347-6cde5b35bc3f.png">
