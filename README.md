@@ -7,6 +7,7 @@ as well as the multiple examples of functional JS components.
 ## Built With
 * React.js
 * TailwindCSS
+* JSX / JavaScript
 * HTML
 * CSS
 
