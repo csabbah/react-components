@@ -1,4 +1,4 @@
-# Carlos Sabbah - React Portfolio
+# Carlos Sabbah - react-components
 
 ## Purpose
 I developed this responsive portfolio using React.js and in this application, i showcase my creative and web development projects
